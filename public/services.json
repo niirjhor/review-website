@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Cricket",
+        "TotalCoaches": 12,
+        "Rank": 1,
+        "TotalStudents": 2000,
+        "TotalHours": 320,
+        "MaxAgeLimit": 12,
+        "CourseFee": 12000,
+        "img": "https://image.shutterstock.com/image-photo/cricket-batsman-action-on-professional-600w-679602739.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Football",
+        "TotalCoaches": 10,
+        "Rank": 2,
+        "TotalStudents": 1000,
+        "TotalHours": 300,
+        "MaxAgeLimit": 11,
+        "CourseFee": 11000,
+        "img": "https://image.shutterstock.com/image-photo/close-football-action-scene-competing-600w-1937437555.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Hockey",
+        "TotalCoaches": 8,
+        "Rank": 3,
+        "TotalStudents": 800,
+        "TotalHours": 300,
+        "MaxAgeLimit": 10,
+        "CourseFee": 11000,
+        "img": "https://image.shutterstock.com/image-photo/young-hockey-player-woman-ball-600w-1136445872.jpg"
+    },
+    {
+        "id": 4,
+        "name": "BasketBall",
+        "TotalCoaches": 6,
+        "Rank": 4,
+        "TotalStudents": 500,
+        "TotalHours": 220,
+        "MaxAgeLimit": 14,
+        "CourseFee": 9000,
+        "img": "https://image.shutterstock.com/image-photo/basketball-players-on-big-professional-600w-1508680433.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Vollyball",
+        "TotalCoaches": 6,
+        "Rank": 5,
+        "TotalStudents": 450,
+        "TotalHours": 300,
+        "MaxAgeLimit": 12,
+        "CourseFee": 8000,
+        "img": "https://image.shutterstock.com/image-photo/beach-volleyball-600w-3264010.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Kabadi",
+        "TotalCoaches": 5,
+        "Rank": 6,
+        "TotalStudents": 400,
+        "TotalHours": 200,
+        "MaxAgeLimit": 11,
+        "CourseFee": 7000,
+        "img": "https://image.shutterstock.com/image-photo/thiruchendurtamilnadumay-20-2021-local-game-600w-1976634611.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Chess",
+        "TotalCoaches": 4,
+        "Rank": 7,
+        "TotalStudents": 200,
+        "TotalHours": 320,
+        "MaxAgeLimit": 12,
+        "CourseFee": 6000,
+        "img": "https://image.shutterstock.com/image-photo/stand-golden-king-chess-fallen-600w-1784519930.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Rugby",
+        "TotalCoaches": 5,
+        "Rank": 8,
+        "TotalStudents": 200,
+        "TotalHours": 320,
+        "MaxAgeLimit": 10,
+        "CourseFee": 5000,
+        "img": "https://image.shutterstock.com/image-photo/rugby-stadium-against-players-tackling-600w-327071678.jpg"
+    }
+]

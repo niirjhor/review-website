@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name": "Cricket",
+        "TotalCoaches": 12,
+        "Rank": 1,
+        "TotalStudents": 2000,
+        "TotalHours": 320,
+        "MaxAgeLimit": 12,
+        "CourseFee": 12000,
+        "img": "https://image.shutterstock.com/image-photo/cricket-batsman-action-on-professional-600w-679602739.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Football",
+        "TotalCoaches": 10,
+        "Rank": 2,
+        "TotalStudents": 1000,
+        "TotalHours": 300,
+        "MaxAgeLimit": 11,
+        "CourseFee": 11000,
+        "img": "https://image.shutterstock.com/image-photo/close-football-action-scene-competing-600w-1937437555.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Hockey",
+        "TotalCoaches": 8,
+        "Rank": 3,
+        "TotalStudents": 800,
+        "TotalHours": 300,
+        "MaxAgeLimit": 10,
+        "CourseFee": 11000,
+        "img": "https://image.shutterstock.com/image-photo/young-hockey-player-woman-ball-600w-1136445872.jpg"
+    },
+    {
+        "id": 4,
+        "name": "BasketBall",
+        "TotalCoaches": 6,
+        "Rank": 4,
+        "TotalStudents": 500,
+        "TotalHours": 220,
+        "MaxAgeLimit": 14,
+        "CourseFee": 9000,
+        "img": "https://image.shutterstock.com/image-photo/basketball-players-on-big-professional-600w-1508680433.jpg"
+    }
+]
