@@ -13,7 +13,7 @@ const About = () => {
                         </p>
                     </Col>
                     <Col sm={4}>
-                        <Image className='about-img' src="https://lh3.googleusercontent.com/proxy/AJefVFaHqRUK0SE9rJbDojpULuPJlq9ST4IQ0ax1pvNYvGD_ln9dNhDm9opntU6iS6icNa_CNcfIlPcODshg8WgLWdISg9LrEtuSi7mZm7oq7l9P3LO5HQlVgA" rounded />
+                        <Image className='about-img' src="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80" rounded />
                     </Col>
                 </Row>
             </Container>

@@ -1,4 +1,4 @@
-import Button from '@restart/ui/esm/Button';
+
 import React from 'react';
 import { Col, Container, ModalFooter, Row } from 'react-bootstrap';
 import './Footer.css'
